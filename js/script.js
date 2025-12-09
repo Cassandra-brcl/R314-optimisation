@@ -1,5 +1,4 @@
 (function(){
-  // Gestion des images uniquement
   if (document.readyState === 'loading') {
     document.addEventListener('DOMContentLoaded', loadImages);
   } else {
