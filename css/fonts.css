@@ -1,0 +1,26 @@
+/* Poppins Light (300) */
+@font-face {
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 300;
+  font-display: swap;
+  src: url('fonts/poppins-v24-latin-300.woff2') format('woff2');
+}
+
+/* Poppins Regular (400) */
+@font-face {
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url('fonts/poppins-v24-latin-regular.woff2') format('woff2');
+}
+
+/* Poppins SemiBold (600) */
+@font-face {
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url('fonts/poppins-v24-latin-600.woff2') format('woff2');
+}
